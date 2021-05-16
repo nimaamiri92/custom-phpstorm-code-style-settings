@@ -3,7 +3,12 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="Console.TableResult.SetNull" />
   <action id="EditorNextWordWithSelection" />
+  <action id="ExtractModule">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
+  <action id="Inline" />
   <action id="JumpToLastWindow" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
