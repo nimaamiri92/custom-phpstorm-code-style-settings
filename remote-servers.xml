@@ -1,6 +1,6 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="MonoRepo" type="docker">
+    <remote-server name="Docker Machine" type="docker">
       <configuration>
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" />
