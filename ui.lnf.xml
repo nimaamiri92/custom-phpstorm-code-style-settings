@@ -1,8 +1,0 @@
-<application>
-  <component name="UISettings">
-    <option name="MAX_LOOKUP_WIDTH2" value="1025" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="SHOW_MAIN_TOOLBAR" value="true" />
-    <option name="SHOW_NAVIGATION_BAR_MEMBERS" value="false" />
-  </component>
-</application>
