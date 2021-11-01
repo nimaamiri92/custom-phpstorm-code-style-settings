@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="con" value="public function __constract()&#10;{&#10;&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="constract" value="public function __constract()&#10;{&#10;&#10;}" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Class Member" value="true" />
     </context>
