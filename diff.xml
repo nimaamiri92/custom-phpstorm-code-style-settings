@@ -1,6 +1,11 @@
 <application>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="BREADCRUMBS_PLACEMENT" value="TOP" />
+        </PlaceSettings>
+      </entry>
       <entry key="VcsFileHistoryView">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
