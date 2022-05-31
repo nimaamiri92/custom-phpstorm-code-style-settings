@@ -1,8 +1,3 @@
 <application>
   <component name="PhpDebugGeneral" xdebug_notify_resolved_breakpoints="false" />
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="f869a796-26a2-431c-84b6-3433b45b21ae" name="PHP" home="/opt/homebrew/opt/php@7.4/bin/php" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
 </application>
