@@ -17,6 +17,7 @@
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="NEW_LINE_AFTER_PHP_OPENING_TAG" value="true" />
+    <option name="FORCE_EMPTY_METHODS_IN_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
@@ -28,17 +29,16 @@
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
-    <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
-    <option name="EXTENDS_LIST_WRAP" value="5" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
     <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="FOR_STATEMENT_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
